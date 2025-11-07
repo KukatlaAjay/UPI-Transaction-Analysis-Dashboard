@@ -23,8 +23,6 @@ The dashboard explores transaction volume and value across cities, banks, device
 - **Customer age (summary):** mean ≈ 39.5 years (range 20–59)  
 - **Monthly activity sample (Jan–Jun 2024):** roughly 1,666–1,667 transactions / month with monthly totals that vary slightly
 
-> Note: the numbers above are computed directly from `UPI_Transactions.xlsx` in this repo.
-
 ---
 
 ## What the Dashboard Contains (visuals & features)
